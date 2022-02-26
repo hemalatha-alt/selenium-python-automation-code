@@ -1,0 +1,7 @@
+.idea/
+.pytest_cache/
+*.log
+*__pycache__
+amazon_search.py
+pythonsearch.py
+searching123.py
